@@ -1,0 +1,7 @@
+{
+    "android": {
+        "verMin": "0.0.0",
+        "verCurrent": "1.1.0",
+        "updateStore": ["https://play.google.com/store/apps/details?id="]
+    }
+}
