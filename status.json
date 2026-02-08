@@ -7,7 +7,7 @@
         }
     },
     "status" : {
-        "adsEnable" : false,
-        "adsWebUrls" : []
+        "adsEnable" : true,
+        "adsWebUrls" : ["https://duckduckgo.com/"]
     }
 }
